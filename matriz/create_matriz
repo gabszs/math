@@ -1,0 +1,52 @@
+def where_line(num, linha, matriz):
+    global cont_line
+    global line
+    for c in range(matriz):
+        for k in range(linha):
+            cont_line += 1
+    return line
+
+
+def cria_matriz(coluna, linha):
+    matriz = [[c for c in range(coluna)] for k in range(linha)]
+    return matriz
+
+
+def isfloat(num):
+    try:
+        float(num)
+        return True
+    except (ValueError,TypeError):
+        return False
+
+
+def cria_float(linha, coluna):
+    num = input(f'Digite o número da linha({linha}) e coluna({coluna}): ')
+    while not isfloat(num):
+        num = input(f'Digite o número da linha({linha}) e coluna({coluna}): ')
+    return num
+
+def preenche(M, L, C):
+    for c in range(L):
+        for k in range(C):
+            M[c][k] = int(input(f'Linha({c}), Coluna({k}): '))
+    print()
+
+
+def print_matriz(matriz):
+    [print(c) for c in matriz]
+
+
+def modify_matriz(matriz):
+    mt = [[cria_float(coluna=coluna, linha=linha) for coluna in linha] for linha in matriz]
+    return mt
+
+
+coluna = int(input('Colunas: '))
+linha = int(input('Linhas: '))
+
+
+matriz1 = cria_matriz(coluna, linha)
+print_matriz(matriz1)
+preenche(matriz1, linha, coluna)
+print_matriz(matriz1)
