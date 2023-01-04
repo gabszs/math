@@ -1,0 +1,66 @@
+<Listing>
+    <ListingID>2263</ListingID>
+    <PublicationType>STANDARD</PublicationType>
+    <Title>Casas para venda em Caieiras no bairro Vera Tereza</Title>
+    <TransactionType>For Sale</TransactionType>
+    <ListDate>2022-12-07T08:12:28</ListDate>
+    <LastUpdateDate>2022-12-07T00:12:00</LastUpdateDate>
+    <DetailViewUrl>
+        http://www.imoveisfrancodarocha.com.br/mvc/imoveis/caieiras-sp/imoveis-a-venda/casas/1502199/55211/bairro=vera_tereza
+    </DetailViewUrl>
+    <Featured>false</Featured>
+    <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Caieiras</City>
+        <Neighborhood>Vera Tereza</Neighborhood>
+        <PostalCode>07718025</PostalCode>
+        <Address>RUA JOSÉ FAILLACE (Bairro Vila dos Pinheiros)</Address>
+        <StreetNumber/>
+    </Location>
+    <ContactInfo>
+        <Name>Imóveis Para Todos</Name>
+        <Email>info@imoveisfrancodarocha.com.br</Email>
+        <Website>imoveisfrancodarocha.com.br</Website>
+        <Logo>http://imgsiga.wmb.com.br/55211/logo/958199898_logo_55211_342.jpg</Logo>
+        <OfficeName>Imóveis Para Todos</OfficeName>
+        <Telephone>(11) 4811 -3981</Telephone>
+        <Location>
+            <Country abbreviation="BR">Brasil</Country>
+            <State abbreviation="SP">São Paulo</State>
+            <City>Caieiras</City>
+            <Neighborhood>Vera Tereza</Neighborhood>
+            <PostalCode>07718025</PostalCode>
+        </Location>
+    </ContactInfo>
+    <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>
+            <![CDATA[ CASA COM 02 DORMITÓRIOS, SENDO 1 SUÍTE E 1 DORMITÓRIO COM ÁREA COBERTA ESPAÇOSA SALA, COZINHA, BANHEIRO, LAVANDERIA COM ÁREA DE SERVIÇO, GARAGEM COM 02 VAGAS ACEITA TERRENO NA TROCA ]]>
+        </Description>
+        <ListPrice currency="BRL">300000</ListPrice>
+        <ConstructedArea unit="square metres">0</ConstructedArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features/>
+    </Details>
+    <Media>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-327yapqlfmadiiy.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-655mrhvpcijipnp.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-983bearqxxksggj.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-327tedeukbhuzne.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-390ykqfsdthcans.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-593kbjxscdzktbx.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-780erumvikudpxw.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-983rdlmfcmipeye.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-171prddxpikbtyz.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-358sgnfqousbtfc.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-546jrifdncikbpz.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-749aywqugrpafjr.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-937gntyrwofvcir.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-718thqutnjzlinb.jpg</Item>
+        <Item medium="image">http://imgsiga.wmb.com.br/55211/img_imoveis/1502199_55211-15bwbwtzbaatuj.jpg</Item>
+    </Media>
+</Listing>
